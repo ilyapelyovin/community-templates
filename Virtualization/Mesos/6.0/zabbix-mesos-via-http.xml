@@ -4,7 +4,7 @@
     <template_groups>
         <template_group>
             <uuid>12340020bd1947fdb78cd19f51477206</uuid>
-            <name>Templates/Erasys</name>
+            <name>Templates/Virtualization</name>
         </template_group>
     </template_groups>
     <templates>
@@ -16,7 +16,7 @@
 https://mesos.apache.org/documentation/latest/monitoring/</description>
             <groups>
                 <group>
-                    <name>Templates/Erasys</name>
+                    <name>Templates/Virtualization</name>
                 </group>
             </groups>
             <items>
@@ -2316,7 +2316,7 @@ https://mesos.apache.org/documentation/latest/monitoring/</description>
 https://mesos.apache.org/documentation/latest/monitoring/</description>
             <groups>
                 <group>
-                    <name>Templates/Erasys</name>
+                    <name>Templates/Virtualization</name>
                 </group>
             </groups>
             <items>
